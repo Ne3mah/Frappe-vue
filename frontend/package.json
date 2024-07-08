@@ -10,6 +10,9 @@
     "copy-html-entry": "cp ../neamah/public/frontend/index.html ../neamah/www/neamah.html"
   },
   "dependencies": {
+    "@vue/reactivity": "^3.4.31",
+    "feather-icons": "^4.29.2",
+    "frappe-ui": "^0.1.63",
     "vue": "^3.4.29"
   },
   "devDependencies": {

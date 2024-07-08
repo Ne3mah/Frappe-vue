@@ -1,12 +1,7 @@
-<script setup>
-</script>
-
 <template>
-     <p class="text-3xl font-bold underline text-red-800">
-        Hello world!
-    </p>
+  <Button>Click me</Button>
 </template>
 
-<style scoped>
-
-</style>
+<script>
+import { Button } from 'frappe-ui'
+</script>
