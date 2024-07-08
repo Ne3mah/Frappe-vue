@@ -1,0 +1,12 @@
+{
+  "name": "neamah",
+  "version": "1.0.0",
+  "description": "Test Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd frontend && yarn build && bench clear-cache"
+  },
+  "author": "",
+  "license": "ISC"
+}
